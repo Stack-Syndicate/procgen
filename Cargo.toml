@@ -1,0 +1,13 @@
+[package]
+name = "procgen"
+authors = ["Glenn Wallace glennw-coding@proton.me"]
+version = "0.0.1"
+edition = "2024"
+license = "MIT"
+repository = "https://github.com/Stack-Syndicate/procgen"
+readme = "README.md"
+description = "A collection of useful procedural generation algorithms for creating art."
+categories = ["multimedia", "algorithms", "game-development"]
+keywords = ["procedural", "generation", "games", "art"]
+
+[dependencies]
